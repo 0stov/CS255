@@ -10,8 +10,11 @@ If you could choose one part of your work on these documents to revise, what wou
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
-The following paragraph isn't part of the question prompts but it summerizes how I feel about systems/project design
+The following paragraph isn't part of the question prompts but it summerizes how I feel about systems/project design this course.
 I learned a lot about project organization during development of the driverpass system. Theres so many ways people need to organize and cooperate in order to conqour a big
 scheduele. For work, I tried to implement a Gnatt diagram just to see how it worked. It was conforting to compartmentalize each aspect of my project. It felt much more achievable whith each component/part laid out. There were smaller deadlines with smaller stresses troughout rather than one giant anxiety the whole time. Only being releived when the project concluded. Basically everything I leaned in this course felt like this. Teaching how to break each project into smaller ones, and break down each responcibility of each person into more managable pieces of work. Anyway, onto the questions..
 
-The DriverPass project was a new service by 
+The DriverPass project was a new service by Liam. He saw a market opportunity. Too many people were failing driving exams and he saw the demand for a service that could teach 
+people how to pass these exams. He wanted a system that put customers together with an instructor and vehicle. This is the system he wanted us to design. I like how my sequence diagrmas turned out but they might be too involved. They sometimes included references to other use cases they didn't need to.
+I think my use case diagramn was weak. It included several important usecases but I think it failed to recognize all available use cases and tended to meld the interconnecting systems too much. 
+I captured the users needs by first breaking down their needs into functional-nonfunctional requirements, then further breaking those into securit, ui, platform, limitation, and adaptability requirements. This provided a nice checklist that I could compare the system to. If anything was lacking it was easier to see the area that needed work in this way.
